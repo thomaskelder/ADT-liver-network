@@ -1,0 +1,107 @@
+© 2000-2012 Ingenuity Systems, Inc. All rights reserved.
+
+ID	Log Ratio	Transcription Regulator	Predicted Activation State	Regulation z-score	p-value of overlap	Target molecules in dataset	Molecular Type
+ 	 	PPARA	 	-1.212	5.49E-16	ALDOB,ANXA2,APOA4,APOC2,CCND1,CD63,CPS1,CSAD,CTH,CYP27A1,CYP2C19,Cyp2c40 (includes others),DIO1,FADS1,FADS2,FGF21,GCK,GNMT,GPD2,Gsta4,KHK,LGALS4,MGLL,PKLR,PLIN2,VCAM1	ligand-dependent nuclear receptor
+ 	 	RORA	 	 	3.45E-08	APOA4,ARSG,CCL4,CYP2C19,Cyp2c70,CYP2F1,CYP3A4,CYP3A43,DDC,NAT8,PLIN2,SLC13A2	ligand-dependent nuclear receptor
+ 	 	HNF1A	 	-0.699	2.41E-07	Akr1c19,ALDOB,ALS2,BMP2K,CCND1,CYP1A2,CYP27A1,CYP3A43,DDC,DUSP6,ELOVL2,GCK,HAL,HSD17B2,MRPL15 (includes EG:27395),MTHFD1,PKLR	transcription regulator
+ 	 	NR1I2	 	1.181	3.16E-07	APOC2,CTH,CYP1A2,CYP2C19,Cyp2d9 (includes others),CYP3A4,Gsta4,Gstm6,NAT8,PGD	ligand-dependent nuclear receptor
+ 	 	RORC	 	 	4.80E-07	APOA4,ARSG,CYP2C19,Cyp2c70,CYP2F1,CYP3A4,CYP3A43,DDC,NAT8,SLC13A2	ligand-dependent nuclear receptor
+ 	 	HNF4A	 	-1.227	1.21E-06	ACTN1,AGXT2L1,ALDH1L1,ALDOB,ALKBH7,ALS2,APOA4,APOC2,BDH1 (includes EG:100037356),BMP2K,CCND1,CYP1A2,CYP27A1,CYP3A4,CYP3A43,DBP,DBT,DUSP6,F7,Gapdh (includes others),GSTO1,HAL,HBS1L,HSD17B2,INHBE,LGALS3,MREG,MRPL15 (includes EG:27395),MTHFD1,NAT8,PGM3,PKLR,PLSCR1,SCAND1,SHISA5,SLC44A1,STARD7,SUPT5H,USPL1	transcription regulator
+ 	 	NR3C1	Activated	2.200	1.57E-05	ACTN1,BHLHE40,CCND1,CPS1,CYP27A1,CYP2C19,CYP3A4,DBT,FASTKD5,GNMT,GPX3,MAPK1,MFSD2A,MTHFD1,PLIN2,TNFRSF21,YWHAH	ligand-dependent nuclear receptor
+ 	 	NR1I3	Activated	2.045	3.47E-05	CYP1A2,CYP27A1,CYP2C19,CYP2F1,CYP3A4,DIO1,Gsta4	ligand-dependent nuclear receptor
+ 	 	MYC	 	-0.285	3.54E-05	ACTN1,ADK,CCND1,DUSP6,FADS2,Gapdh (includes others),GCK,GJA1,GM2A,GNPAT,GPC1,IMPA2,LDHA,METAP1,MTHFD1,PKLR,THBS2,VCAM1	transcription regulator
+ 	 	PPARD	 	-1.996	4.57E-05	APOA4,CSAD,GPD2,INHBE,LGALS4,MFSD2A,PKLR,PLIN2	ligand-dependent nuclear receptor
+ 	 	FOXO1 (includes EG:2308)	 	 	5.26E-05	ALDOB,CCND1,GCK,GPD2,HAL,PKLR,PLSCR1,SPC25 (includes EG:100144563),VCAM1	transcription regulator
+ 	 	SMARCB1	 	0.865	8.49E-05	CCND1,CENPA,CYP2C19,Cyp2c70,Cyp2d9 (includes others),CYP3A43,Defb1,GJA1	transcription regulator
+ 	 	FOS	 	-0.826	9.59E-05	AGTR1,ATF3,CCND1,CTH,CYP17A1,Defb1,GJA1,GM2A,HTATIP2,LDHA,LGALS3,LGALS4,NET1 (includes EG:10276),VCAM1	transcription regulator
+ 	 	SREBF1	 	-0.940	1.16E-04	CSAD,FADS1,FADS2,GCK,GPX3,Gstm6,LGALS3,PKLR	transcription regulator
+ 	 	PPARGC1A	 	-0.876	1.36E-04	APOA4,APOC2,CYP1A2,CYP3A4,DIO1,FGF21,LDHA	transcription regulator
+ 	 	RXRA	 	-0.018	1.76E-04	Ccl9,CCND1,CYP1A2,CYP26A1,Cyp2c70,CYP3A4,FADS2,GCK,PKLR	ligand-dependent nuclear receptor
+ 	 	HTT	Inhibited	-2.176	2.95E-04	ADAMTS2,AGXT2L1,ATF3,BHLHE40,CCND1,DBP,DUSP6,EVL,Gapdh (includes others),GPC1,GPX3,GRK5,LDHA,RGS16,THBS2,VCAM1	transcription regulator
+ 	 	NR4A1	 	 	3.77E-04	ALDOB,ATF3,CCND1,CYP17A1,VCAM1	ligand-dependent nuclear receptor
+ 	 	FOXA3	 	 	4.52E-04	CYP2C18,CYP2C19,CYP3A4	transcription regulator
+ 	 	Rxr	 	 	5.24E-04	CYP26A1,CYP2C19,CYP3A4,DIO1,PLIN2	group
+ 	 	MLXIPL	 	 	6.36E-04	GCK,KHK,PKLR	transcription regulator
+ 	 	NFIC	 	 	8.61E-04	CCND1,CYP17A1,PKLR	transcription regulator
+ 	 	PDX1 (includes EG:18609)	 	-1.680	1.06E-03	ALDOB,ANXA2,ATF3,CCND1,DUSP6,GCK	transcription regulator
+ 	 	AHR	 	0.200	1.07E-03	ACTN1,ADAMTS2,CCND1,CYP17A1,CYP1A2,DIO1,DUSP6,FAM55B,PKLR	ligand-dependent nuclear receptor
+ 	 	ATN1	 	 	1.19E-03	BHLHE40,CSNK1D,DBP,EVL,GRK5,RGS16	transcription regulator
+ 	 	EGR1	 	-1.353	1.29E-03	ATF3,CCL4,Ccl9,CCND1,CYP17A1,VCAM1	transcription regulator
+ 	 	RBCK1	 	 	1.66E-03	CCND1,VCAM1	transcription regulator
+ 	 	CLOCK	 	1.084	1.87E-03	BHLHE40,CYP26A1,DBP,F7,GCK,TNFRSF21	transcription regulator
+ 	 	Bcl9-Cbp/p300-Ctnnb1-Lef/Tcf	 	 	2.82E-03	CCND1,GJA1	complex
+ 	 	NCOR2	 	 	2.98E-03	CCND1,CYP3A4,DIO1	transcription regulator
+ 	 	CTNNβ-TCF/LEF	 	 	3.50E-03	CCND1,GJA1	complex
+ 	 	STAT5B	Inhibited	-2.016	3.81E-03	CCND1,Cyp2c40 (includes others),Cyp2d9 (includes others),CYP3A4,GCK	transcription regulator
+ 	 	SKIL	 	 	3.86E-03	DIXDC1,SLC44A1,THBS2	transcription regulator
+ 	 	NFE2L2	 	0.898	4.19E-03	APOA4,GPX3,Gsta4,Gstm6,GSTO1,HTATIP2,MGLL,PGD,VCAM1	transcription regulator
+ 	 	MLX	 	 	4.25E-03	DIO1,PKLR	transcription regulator
+ 	 	MED1 (includes EG:19014)	 	 	4.79E-03	CCND1,CYP1A2,CYP3A4,DIO1	transcription regulator
+ 	 	PXR ligand-PXR-Retinoic acid-RXRα	 	 	4.88E-03	CYP1A2,CYP2C19,CYP3A4	complex
+ 	 	Ap1	 	-1.828	5.44E-03	ATF3,CCL4,CCND1,SLC8A1,VCAM1	complex
+ 	 	Ncoa-Nr1i3-Rxra	 	 	5.96E-03	CYP2C19,CYP3A4	complex
+ 	 	Ncoa-Nr1i2-Rxra	 	 	5.96E-03	CYP2C19,CYP3A4	complex
+ 	 	HNF4α dimer	 	 	5.96E-03	ALDOB,PKLR	complex
+ 	 	HR	 	 	6.91E-03	GJA1,HAL	transcription regulator
+ 	 	PLAGL1	 	 	6.91E-03	LDHA,PLIN2	transcription regulator
+ 	 	TRIM24	 	1.816	7.75E-03	IFI27L2,LGALS3,SAMD9L,SHISA5	transcription regulator
+ 	 	PPARG	 	-0.572	8.84E-03	BDH1 (includes EG:100037356),CCND1,CYP26A1,GCK,IVD,MGLL,PLIN2,VCAM1	ligand-dependent nuclear receptor
+ 	 	CAR ligand-CAR-Retinoic acid-RXRα	 	 	9.01E-03	CYP2C19,CYP3A4	complex
+ 	 	CALCOCO1	 	 	9.06E-03	CCND1	transcription regulator
+ 	 	VENTX	 	 	9.06E-03	CCND1	transcription regulator
+ 	 	UBP1 (includes EG:100136855)	 	 	9.06E-03	Cyp2d9 (includes others)	transcription regulator
+ 	 	MED15	 	 	9.06E-03	CCND1	transcription regulator
+ 	 	PHF5A	 	 	9.06E-03	GJA1	transcription regulator
+ 	 	EPAS1	 	 	9.24E-03	BHLHE40,CCND1,GJA1,LDHA,PLIN2	transcription regulator
+ 	 	NFIA	 	 	1.01E-02	CYP1A2,PKLR	transcription regulator
+ 	 	ZNF202	 	 	1.39E-02	APOA4,LAG3	transcription regulator
+ 	 	ZBTB17	 	 	1.53E-02	BHLHE40,CCND1	transcription regulator
+ 	 	NFkB (complex)	Inhibited	-2.520	1.69E-02	ATF3,CCL4,CCND1,CYP3A4,DBP,DBT,LDHA,RGS16,SELPLG,VCAM1	complex
+ 	 	NKX2-1	 	 	1.69E-02	BDH1 (includes EG:100037356),Ear2 (includes others),Gsta4,MREG,PGM3	transcription regulator
+ 	 	SMAD4	 	 	1.69E-02	APOA4,CCND1,CYP17A1,GJA1,SHISA5	transcription regulator
+ 	 	IFI16	 	 	1.79E-02	CCL4,CCND1,VCAM1	transcription regulator
+ 	 	cJun-ATF2	 	 	1.80E-02	CCND1	complex
+ 	 	ETS-ELK1	 	 	1.80E-02	CCND1	complex
+ 	 	CTNNβ-LEF1	 	 	1.80E-02	CCND1	complex
+ 	 	SF1	 	 	1.80E-02	VCAM1	transcription regulator
+ 	 	NfkB1-RelA	 	 	1.82E-02	CCND1,VCAM1	complex
+ 	 	TP73	 	-0.569	1.85E-02	BHLHE40,CTH,DBP,GRK5,SHISA5	transcription regulator
+ 	 	CEBPA	 	1.076	2.06E-02	APOA4,CPS1,Cyp2c40 (includes others),CYP3A4,GJA1,PGD,PLIN2	transcription regulator
+ 	 	JUN	 	 	2.34E-02	ANXA2,ATF3,CCND1,EHD4,GJA1,LGALS3,VCAM1	transcription regulator
+ 	 	RNA polymerase II	 	 	2.46E-02	Ccl9,Gapdh (includes others),HCST,PKLR,THBS2	complex
+ 	 	THRB	 	-0.920	2.57E-02	CCND1,DDC,DIO1,PGD	ligand-dependent nuclear receptor
+ 	 	NR1H3	 	 	2.57E-02	APOC2,CCL4,GCK	ligand-dependent nuclear receptor
+ 	 	CTNNB1	 	-0.651	2.60E-02	CCND1,CYP1A2,Cyp2d9 (includes others),DIO1,GJA1,HSD17B2,LGALS3,NAT8,STARD7	transcription regulator
+ 	 	STAT1	 	 	2.62E-02	CCL4,CCND1,CYP1A2,Cyp2d9 (includes others),CYP3A4	transcription regulator
+ 	 	Nuclear factor 1	 	 	2.64E-02	CYP1A2,PKLR	group
+ 	 	SERTAD1	 	 	2.69E-02	CCND1	transcription regulator
+ 	 	JARID2	 	 	2.69E-02	CCND1	transcription regulator
+ 	 	KHDRBS1	 	 	2.69E-02	CCND1	transcription regulator
+ 	 	UBTF	 	 	2.69E-02	CCND1	transcription regulator
+ 	 	YWHAB	 	 	2.69E-02	CCND1	transcription regulator
+ 	 	SMARCA4	 	 	2.88E-02	CCND1,CYP3A4,HCST,LGALS3,MAPK1,TREM2	transcription regulator
+ 	 	KLF2	 	 	2.99E-02	CCL4,MYH10,SLCO2A1,VCAM1	transcription regulator
+ 	 	TBX2	 	 	3.07E-02	ATF3,BHLHE40,DBP	transcription regulator
+ 	 	NR1H4	 	 	3.28E-02	APOC2,CYP3A4,PKLR	ligand-dependent nuclear receptor
+ 	 	RARG	 	 	3.39E-02	CYP26A1,Cyp2c70	ligand-dependent nuclear receptor
+ 	 	FOXA1	 	 	3.39E-02	CPS1,Cyp2c40 (includes others),DDC	transcription regulator
+ 	 	TP53 (includes EG:22059)	 	-0.600	3.42E-02	AGTR1,ANXA2,ATF3,BHLHE40,CCL4,CCND1,CSNK1D,DBP,Gapdh (includes others),GPX3,LGALS3,MAPK1,RGS16,SHISA5,THBS2	transcription regulator
+ 	 	Ahr-Arnt	 	 	3.58E-02	CYP1A2	complex
+ 	 	SOX17	 	 	3.58E-02	CCND1	transcription regulator
+ 	 	FEV	 	 	3.58E-02	DDC	transcription regulator
+ 	 	ZIC1	 	 	3.58E-02	CCND1	transcription regulator
+ 	 	SOX18	 	 	3.58E-02	VCAM1	transcription regulator
+ 	 	ELL2	 	 	3.58E-02	CYP26A1	transcription regulator
+ 	 	MTPN	 	 	3.61E-02	CCND1,DDC,VCAM1	transcription regulator
+ 	 	ONECUT1	 	 	3.88E-02	AGTR1,CLNS1A,Cyp2c40 (includes others),CYP3A43,SH3BGRL,USPL1	transcription regulator
+ 	 	SP1	 	 	3.90E-02	ATF3,CCND1,CTH,CYP17A1,CYP26A1,Cyp2d9 (includes others),F7,GJA1	transcription regulator
+ 	 	NFKB2	 	 	3.99E-02	CCND1,VCAM1	transcription regulator
+ 	 	IRF5	 	 	3.99E-02	CCL4,PLSCR1	transcription regulator
+ 	 	E2F4	 	 	4.32E-02	CCND1,CENPA,MTHFD1,PLSCR1,ZSCAN12	transcription regulator
+ 	 	FOXA2	 	 	4.39E-02	ALDOB,Cyp2c40 (includes others),DDC,GCK	transcription regulator
+ 	 	ATPase	 	 	4.45E-02	VCAM1	group
+ 	 	PLAGL2	 	 	4.45E-02	LDHA	transcription regulator
+ 	 	HNF4G	 	 	4.45E-02	APOA4	transcription regulator
+ 	 	SUB1 (includes EG:10923)	 	 	4.45E-02	CCND1	transcription regulator
+ 	 	NR4A2	 	 	4.64E-02	CCND1,DDC	ligand-dependent nuclear receptor
+ 	 	STAT3	 	-1.880	1.79E-01	APOA4,CCL4,CCND1,GJA1,PLSCR1	transcription regulator
